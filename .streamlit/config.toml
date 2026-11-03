@@ -1,0 +1,14 @@
+[theme]
+# Roxo principal da logo para botões e detalhes
+primaryColor = "#7776d6"
+
+# Cor de fundo principal (Um lilás bem clarinho e pastel)
+backgroundColor = "#F3F1FD"
+
+# Cor de fundo secundária (barra lateral e cards)
+secondaryBackgroundColor = "#E6E4F9"
+
+# Cor do texto
+textColor = "#3C3B6E"
+
+font = "sans serif"
